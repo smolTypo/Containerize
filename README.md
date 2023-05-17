@@ -1,3 +1,18 @@
+# Containerize And Deploy An App
+
+This is an exercise as part of Module 24 of MIT xPro Full Stack Bootcamp
+
+The goal is to build a Docker image locally and then deploy it to a containerized environment.
+
+## Features
+- Build a Docker image for the React application
+- Deploy the Docker container locally
+
+## Prerequisites
+
+Docker: Ensure that you have Docker installed and properly configured on your local machine.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
