@@ -1,6 +1,6 @@
 # Containerize And Deploy An App
 
-This is an exercise as part of Module 24 of MIT xPro Full Stack Bootcamp
+This is an exercise as part of Module 23 of MIT xPro Full Stack Bootcamp
 
 The goal is to build a Docker image locally and then deploy it to a containerized environment.
 
